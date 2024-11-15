@@ -21,3 +21,29 @@ header{
     margin: 40px auto;
     border-bottom: 1px solid #bbc7c7;
 }
+
+.grid-container{
+    max-width: 1000px;
+    margin: 40px auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}
+
+article img, article.featured.img{
+    width: 100%;
+    aspect-ratio: 16/9;
+}
+
+article h1,h2,h3,h4,p,a{
+    margin:10px auto;
+}
+
+article {
+border-top: 1px solid #f7f7f7;
+}
+
+article h4,h5{
+    color:#C74600;
+    font-style: italic;
+}
