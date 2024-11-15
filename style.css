@@ -35,6 +35,7 @@ header{
 article img, article.featured.img{
     width: 100%;
     aspect-ratio: 16/9;
+    object-fit :cover;
 }
 
 article h1,h2,h3,h4,h5,p,a{
