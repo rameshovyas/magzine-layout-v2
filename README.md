@@ -1,4 +1,4 @@
-# CSS Grid - Magzine Layout Demo
+# CSS Grid - Magzine Layout Version 2 Demo
 
 ### Desktop
 !["Magzine Grid Layout Desktop"](Screenshot_Desktop.png)
